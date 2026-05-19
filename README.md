@@ -82,7 +82,7 @@ python main.py
 </h3>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/PbxBad/string-session-manager">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Badmunda05/string-session-manager">
     <img
       src="https://img.shields.io/badge/Deploy%20On%20Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white"
       width="240"

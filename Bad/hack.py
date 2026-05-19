@@ -110,7 +110,7 @@ async def back_callback(client: Client, query: CallbackQuery):
             [
                 InlineKeyboardButton(
                     text="⌜ sᴏᴜʀᴄᴇ ⌟",
-                    url="https://github.com/PbxBad/string-session-manager/fork",
+                    url="https://github.com/Badmunda05/string-session-manager/fork",
                 )
             ],
         ]

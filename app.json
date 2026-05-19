@@ -1,0 +1,43 @@
+{
+  "name": "🧿 BAD STRING SESSION MANAGER 🧿",
+  "description": "A Telegram bot to generate Pyrogram and Telethon string sessions with extra utilities.",
+  "logo": "https://files.catbox.moe/ookphv.jpg",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram",
+    "telethon",
+    "string-session"
+  ],
+  "env": {
+    "API_ID": {
+      "description": "Telegram API ID (get from my.telegram.org)",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Telegram API HASH (get from my.telegram.org)",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token (get from @BotFather)",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Telegram user ID of the bot owner",
+      "required": true
+    },
+    "LOGGER_ID": {
+      "description": "Logger id (-100)",
+      "required": true
+    },
+    "MONGO_DB_URI": {
+      "description": "MongoDB connection URI",
+      "required": true
+    },
+    "MUST_JOIN": {
+      "description": "Force subscribe channel or group username (without @)",
+      "required": false
+    }
+  }
+}

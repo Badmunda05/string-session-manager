@@ -64,8 +64,7 @@ MUST_JOIN=channel_username   # optional
 ### ▶ Local Run
 
 ```bash
-pip install -r requirements.txt
-python main.py
+git clone https://github.com/Badmunda05/string-session-manager && cd string-session-manager && pip install -r requirements.txt && python main.py
 ```
 
 ### ▶ Heroku / Render / VPS
